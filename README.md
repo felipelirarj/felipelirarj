@@ -5,6 +5,7 @@
 - 💬 Contate-me no email: felipe_lira@live.com ou no whatsapp|telegram 21964765184
 - 😄 Pronouns: ele/dele
 
+## Me pague um café? Chave do PIX é meu número de celular
 
 <div align="center">
   <a href="https://github.com/felipelirarj/">
