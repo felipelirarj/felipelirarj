@@ -8,7 +8,7 @@
 ## Me pague um café? Chave do PIX é meu número de celular
 
 <div align="center">
-  <a href="https://github.com/felipelirarj/">
+  <a href="https://github.com/felipelirarj">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipelirarj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelirarj&layout=compact&langs_count=7&theme=dracula"/>
 </div>
